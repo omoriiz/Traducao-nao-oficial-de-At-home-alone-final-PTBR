@@ -2,13 +2,13 @@
 
 Tradução não oficial do jogo **At Home Alone** para **Português do Brasil**.
 
-> ⚠️ Esta é uma versão de **playtest** — pode conter erros de texto, textos cortados na tela ou pequenos bugs. Relate problemas na aba [Issues](../../issues) deste repositório.
+> ⚠️ Esta é uma versão de **playtest** — pode conter erros de texto, Relate problemas na aba [Issues](../../issues) deste repositório.
 
 ## 📋 Sobre
 
 - **Jogo original:** At Home Alone Final
 - **Idioma:** Português (Brasil)
-- **Cobertura da tradução:** Textos, diálogos, interface/menus e assets/imagens traduzidos
+- **Cobertura da tradução:** Textos, diálogos, interface/menus e assets/imagens quase todos traduzidos
 - **Status:** Playtest (em testes)
 
 Atualmente, este projeto tem sido desenvolvido apenas por uma pessoa. Este é um projeto que venho fazendo desde 2022 junto com um amigo meu da equipe córtex, já foi abandonado muitas vezes por falta de tempo, mas dessa vez consegui finalmente trazer para a internet.
