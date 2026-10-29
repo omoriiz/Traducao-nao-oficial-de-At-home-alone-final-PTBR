@@ -1,12 +1,12 @@
 # At Home Alone — Tradução PT-BR (Playtest)
 
-Tradução não oficial, feita por fãs, do jogo **At Home Alone** para **Português do Brasil**.
+Tradução não oficial do jogo **At Home Alone** para **Português do Brasil**.
 
 > ⚠️ Esta é uma versão de **playtest** — pode conter erros de texto, textos cortados na tela ou pequenos bugs. Relate problemas na aba [Issues](../../issues) deste repositório.
 
 ## 📋 Sobre
 
-- **Jogo original:** At Home Alone
+- **Jogo original:** At Home Alone Final
 - **Idioma:** Português (Brasil)
 - **Cobertura da tradução:** Textos, diálogos, interface/menus e assets/imagens traduzidos
 - **Status:** Playtest (em testes)
@@ -29,7 +29,7 @@ Feito isso, cole esses arquivos no jogo original e pronto.
 
 Delete o arquivo `Game.rgss3a` dentro da pasta do jogo (ou mova ele para outro lugar) para a tradução funcionar.
 
-> **DETALHE:** a tradução contém pequenos erros de falas fora de contexto justamente pela falta de tempo que tive para trabalhar nisso, estou dando o meu melhor para resolver.
+> **DETALHE:** a tradução contém pequenos erros de falas fora de contexto justamente pela falta de tempo que tive para trabalhar nisso, em breve atualizações virão
 
 ## 👤 Créditos
 
