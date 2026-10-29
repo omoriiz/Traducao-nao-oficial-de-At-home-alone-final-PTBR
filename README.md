@@ -37,3 +37,6 @@ Delete o arquivo `Game.rgss3a` dentro da pasta do jogo (ou mova ele para outro l
 
 
 ## 📥 Download [Clique aqui para baixar a última versão](https://github.com/omoriiz/Traducao-nao-oficial-de-At-home-alone-final-PTBR/releases/latest)
+
+
+DISCORD da tradução, favor ler as regras antes de falar qualquer coisa: https://discord.gg/Q4xzuyM3cU
